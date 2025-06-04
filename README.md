@@ -51,4 +51,4 @@ OK
 
 ## 📝 License
 
-MIT (or your choice)
+Anton Zherebtsov
