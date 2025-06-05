@@ -15,7 +15,7 @@ A simple web application built with Flask.
 
 ```bash
 docker build -t python-web-app .
-docker run -p 8000:8000 python-web-app
+docker run -d -e APP_PORT=8080 -p 8080:8080 simple-web
 ```
 
 ## 🌐 Endpoints
